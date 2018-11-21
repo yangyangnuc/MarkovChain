@@ -1,4 +1,4 @@
-# MarkovChain
+# Markov Chain
 ## Markov Property
 Markov property refers to a memoryless stochastic process{X(t),t ∈T}, 
 that future states only depend on current states, not on the states preceded it. 
@@ -25,4 +25,4 @@ I={a1,a2,...};
 Markov property of Markov chain is usually in conditional probability marked as  
 P<sub>ij</sub>(m,m+n) = P{X<sub>m+n</sub>=a<sub>j</sub>|X<sub>m</sub>=a<sub>i</sub>}  
 , it shows transition probability from current time m and current state a<sub>i</sub> to a<sub>j</sub> at time (m+n), Where a<sub>i</sub> ∈I;  
-
+* $c = \sqrt{a^{2}+b_{xy}^{2} +e^{x}}$
