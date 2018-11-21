@@ -1,4 +1,5 @@
-# Markov Chain
+# Markov Chain  
+![avatar](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Markovkate_01.svg/220px-Markovkate_01.svg.png)
 ## Markov Property
 Markov property refers to a memoryless stochastic process{X(t),t ∈T}, 
 that future states only depend on current states, not on the states preceded it. 
