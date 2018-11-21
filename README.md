@@ -26,4 +26,9 @@ I={a1,a2,...};
 Markov property of Markov chain is usually in conditional probability marked as  
 P<sub>ij</sub>(m,m+n) = P{X<sub>m+n</sub>=a<sub>j</sub>|X<sub>m</sub>=a<sub>i</sub>}  
 , it shows transition probability from current time m and current state a<sub>i</sub> to a<sub>j</sub> at time (m+n), Where a<sub>i</sub> ∈I;  
-* ax^{2} + by^{2} + c = 0
+### Markov transition probability matrix  
+[ Pij ], i,j∈[1,N] and i≤j;  
+* sum of each matrix row is 1.0;   
+* sum of each matrix column is usually not 1.0, Eg. column 1 it means transition from state i at time i to state 1 at time i ∈[1,N];  
+![avatar](https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Beanandteddy.jpg/220px-Beanandteddy.jpg)  
+
