@@ -7,5 +7,7 @@ P{Xn=xn|X<sub>0</sub>=x<sub>0</sub>, X<sub>1</sub>=x<sub>1</sub>, X<sub>2</sub>
 =x<sub>2</sub>, ... , X<sub>n-1</sub> = x<sub>n-1</sub>} = P{X<sub>n</sub>=x<sub>n</sub>
 |X<sub>n-1</sub> = x<sub>n-1</sub>};
 
-Q1 Process with independent increments {X(t),t≥0}, and X(0) = 0;
+### Question1 
+Process with independent increments {X(t),t≥0}, and X(0) = 0;
 Prove that: {X(t),t≥0} is Markov process.
+### Answer
