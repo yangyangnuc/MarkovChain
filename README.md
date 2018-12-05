@@ -1,5 +1,9 @@
 # Markov Model  
-Markov model is a system that produces Markov chain. Hidden Markov model is a markov model that we don't know its rules to produce markov chains.
+Markov model is a system that produces Markov chain. Hidden Markov model is a markov model that we don't know its rules to produce markov chains.  
+2 probabilities,  
+* there will be certain observation, given certain state and time  
+* there will be certain transition, given certain state and time  
+
 ## 1 Markov Chain  
 ![avatar](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Markovkate_01.svg/220px-Markovkate_01.svg.png)
 ## 1.0 Markov Property
